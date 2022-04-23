@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello. 🤓  I'm Mateus Marques, but you can call me just 'Marques'. I'm a DevOps Engineer and this profile it's to you take a look at my knowledge.
+### Have fun. 💻 ☕ 
 
-<!--
-**marquesmateus93/marquesmateus93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marquesmateus93&&count_private=true&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
+# Dev Marques Ops ORG
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops&repo=terraform-vpc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops&repo=terraform-app-demo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops&repo=terraform-rds&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops&repo=terraform-tags&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Dev Marques Ops Live Infrastructure ORG
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops-Live-Infrastructure&repo=terragrunt-app-demo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops-Live-Infrastructure&repo=terragrunt-vpc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
