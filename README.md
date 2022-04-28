@@ -16,15 +16,15 @@
 
 
 # Dev Marques Ops ORG
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops&repo=terraform-vpc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops&repo=terraform-app-demo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops&repo=terraform-rds&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops&repo=terraform-tags&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops&repo=terraform-vpc&theme=dark)](https://github.com/Dev-Marques-Ops/terraform-vpc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops&repo=terraform-app-demo&theme=dark)](https://github.com/Dev-Marques-Ops/terraform-app-demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops&repo=terraform-rds&theme=dark)](https://github.com/Dev-Marques-Ops/terraform-rds)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops&repo=terraform-tags&theme=dark)](https://github.com/Dev-Marques-Ops/terraform-tags)
 
 # Dev Marques Ops Live Infrastructure ORG
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops-Live-Infrastructure&repo=terragrunt-app-demo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops-Live-Infrastructure&repo=terragrunt-vpc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops-Live-Infrastructure&repo=terragrunt-app-demo&theme=dark)](https://github.com/Dev-Marques-Ops-Live-Infrastructure/terragrunt-app-demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Marques-Ops-Live-Infrastructure&repo=terragrunt-vpc&theme=dark)](https://github.com/Dev-Marques-Ops-Live-Infrastructure/terragrunt-vpc)
 
 # Contact
 <div style="display: inline_block">
