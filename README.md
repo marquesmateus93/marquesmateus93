@@ -3,8 +3,7 @@
 ### I'm Marques, DevOps Engineer and this is my profile. ☕
 
 <div align="center"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquesmateus93&&count_private=true&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesmateus93&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquesmateus93&count_private=true&hide_rank=true&show_icons=true&theme=dark"/>
 </div><br>
 
 # ORGs
