@@ -16,6 +16,7 @@
 </div><br>
   
 # Portfolio
+That's not just a portfolio, it's also a knowledge/study area. That's why it's never "ready", always working in progress.
 
 ## Terraform Modules
 
