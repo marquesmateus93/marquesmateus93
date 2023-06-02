@@ -25,6 +25,7 @@ That's not just a portfolio, it's also a knowledge/study area. That's why it's n
   <a href="https://github.com/marquesmateus93/terraform-app-demo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marquesmateus93&repo=terraform-app-demo&show_owner=true&theme=dark"/>
   <a href="https://github.com/marquesmateus93/terraform-rds"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marquesmateus93&repo=terraform-rds&show_owner=true&theme=dark"/>
   <a href="https://github.com/marquesmateus93/terraform-tags"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marquesmateus93&repo=terraform-tags&show_owner=true&theme=dark"/>
+  <a href="https://github.com/marquesmateus93/terraform-eks"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marquesmateus93&repo=terraform-eks&show_owner=true&theme=dark"/>
 </div><br/>
 
 ## Terragrunt LiveInfra
@@ -32,6 +33,7 @@ That's not just a portfolio, it's also a knowledge/study area. That's why it's n
 <div align="center">
   <a href="https://github.com/marquesmateus93/terragrunt-vpc"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marquesmateus93&repo=terragrunt-vpc&show_owner=true&theme=dark"/>
   <a href="https://github.com/marquesmateus93/terragrunt-app-demo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marquesmateus93&repo=terragrunt-app-demo&show_owner=true&theme=dark"/>
+  <a href="https://github.com/marquesmateus93/terragrunt-eks"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marquesmateus93&repo=terragrunt-eks&show_owner=true&theme=dark"/>
 </div>
 
 # Contact Me
