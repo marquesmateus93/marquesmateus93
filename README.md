@@ -9,13 +9,16 @@
 
 <div align="center"><br>
   <img src="https://github.com/marquesmateus93/marquesmateus93/assets/5325106/d6cb9074-1cf2-40ad-a447-231f01e932b0" alt="AWS" width="50" height="50">
+  <img src="https://github.com/marquesmateus93/marquesmateus93/assets/5325106/ca73e8b0-a64e-4e38-a3a7-412dc73971de" alt="Docker" width="50" height="50">
   <img src="https://github.com/marquesmateus93/marquesmateus93/assets/5325106/9380daa4-bc0d-4620-9fd2-29268d399ed3" alt="Terraform" width="50" height="50">
   <img src="https://github.com/marquesmateus93/marquesmateus93/assets/5325106/de026ee0-68e9-4258-9a81-ae3b91414c56" alt="Terragrunt" width="50" height="50">
+  <img src="https://github.com/marquesmateus93/marquesmateus93/assets/5325106/28328f90-9233-45a8-932e-6ba73cd005c6" alt="GitHUb Actions" width="50" height="50">
   <img src="https://github.com/marquesmateus93/marquesmateus93/assets/5325106/604fc329-d9e1-4661-87a4-fddb1dbfb438" alt="Helm" width="50" height="50">
   <img src="https://github.com/marquesmateus93/marquesmateus93/assets/5325106/c5ef1717-8883-4e1e-b9e6-af88f05829be" alt="Linux" width="50" height="50">
 </div><br>
-  
+
 # Portfolio
+
 That's not just a portfolio, it's also a knowledge/study area. That's why it's never "ready", always working in progress.
 
 ## Terraform Modules
