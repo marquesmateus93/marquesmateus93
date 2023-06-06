@@ -4,7 +4,8 @@
 
 <div align="center"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquesmateus93&show_icons=true&rank_icon=github&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesmateus93&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesmateus93&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)"/>
+
 </div><br>
 
 <div align="center"><br>
@@ -29,6 +30,7 @@ That's not just a portfolio, it's also a knowledge/study area. That's why it's n
   <a href="https://github.com/marquesmateus93/terraform-rds"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marquesmateus93&repo=terraform-rds&show_owner=true&theme=dark"/>
   <a href="https://github.com/marquesmateus93/terraform-tags"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marquesmateus93&repo=terraform-tags&show_owner=true&theme=dark"/>
   <a href="https://github.com/marquesmateus93/terraform-eks"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marquesmateus93&repo=terraform-eks&show_owner=true&theme=dark"/>
+  <a href="https://github.com/marquesmateus93/news-feed"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marquesmateus93&repo=news-feed&show_owner=true&theme=dark"/>
 </div><br/>
 
 ## Terragrunt LiveInfra
