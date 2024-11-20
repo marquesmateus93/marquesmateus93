@@ -21,6 +21,10 @@ The project revolves mainly around the <a href="https://github.com/marquesmateus
 ### These are some repositories of pipeRoad-based
 
 <div align="center">
+  <a href="https://github.com/marquesmateus93/aws-auth"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marquesmateus93&repo=aws-auth&show_owner=true&theme=dark"/>
+</div>
+  <br>
+<div align="center">
   <a href="https://github.com/marquesmateus93/terraform-vpc"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marquesmateus93&repo=terraform-vpc&show_owner=true&theme=dark"/>
   <a href="https://github.com/marquesmateus93/terragrunt-vpc"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marquesmateus93&repo=terragrunt-vpc&show_owner=true&theme=dark"/>
 </div>
@@ -51,9 +55,8 @@ The project revolves mainly around the <a href="https://github.com/marquesmateus
 
 # Upcoming
 
-- AWS SSO and Assume Role authentication script
 - RDS PipeRoad conversion
-- News Feed PipeRoad conversion with Observability stack
+- News Feed Demo Application PipeRoad with Observability stack
 
 <br>
   <hr class="dashed">
